@@ -1,10 +1,3 @@
-# gercon
-Gerenciador de condomínios na plataforma web. Controle de sessão de usuário, condomínios e controle de pagamentos
-
-
-
-
-
 <h1 align="center">Gercon</h1>
 <p align="center">Gerenciador de condomínios na plataforma web. Controle de sessão de usuário, condomínios e controle de pagamentos.</p>
 
